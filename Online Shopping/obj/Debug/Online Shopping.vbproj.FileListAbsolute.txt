@@ -1,0 +1,28 @@
+C:\Users\ADMIN\source\repos\Online Shopping\Online Shopping\obj\Debug\Online Shopping.vbprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\Online Shopping\Online Shopping\obj\Debug\Online_Shopping.Login.resources
+C:\Users\ADMIN\source\repos\Online Shopping\Online Shopping\obj\Debug\Online_Shopping.Resources.resources
+C:\Users\ADMIN\source\repos\Online Shopping\Online Shopping\obj\Debug\Online_Shopping.Registration.resources
+C:\Users\ADMIN\source\repos\Online Shopping\Online Shopping\obj\Debug\Online Shopping.vbproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\Online Shopping\Online Shopping\obj\Debug\Online Shopping.vbproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Online Shopping\Online Shopping\bin\Debug\Online Shopping.exe.config
+C:\Users\ADMIN\source\repos\Online Shopping\Online Shopping\bin\Debug\Online Shopping.exe
+C:\Users\ADMIN\source\repos\Online Shopping\Online Shopping\bin\Debug\Online Shopping.pdb
+C:\Users\ADMIN\source\repos\Online Shopping\Online Shopping\bin\Debug\Online Shopping.xml
+C:\Users\ADMIN\source\repos\Online Shopping\Online Shopping\bin\Debug\Guna.UI2.dll
+C:\Users\ADMIN\source\repos\Online Shopping\Online Shopping\obj\Debug\Online Shopping.vbproj.CopyComplete
+C:\Users\ADMIN\source\repos\Online Shopping\Online Shopping\obj\Debug\Online Shopping.exe
+C:\Users\ADMIN\source\repos\Online Shopping\Online Shopping\obj\Debug\Online Shopping.xml
+C:\Users\ADMIN\source\repos\Online Shopping\Online Shopping\obj\Debug\Online Shopping.pdb
+C:\Users\ADMIN\source\repos\Online Shopping\Online Shopping\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ADMIN\source\repos\Online Shopping\Online Shopping\obj\Debug\Online_Shopping.mainform.resources
+C:\Users\ADMIN\source\repos\Online Shopping\Online Shopping\obj\Debug\Online_Shopping.dslr.resources
+C:\Users\ADMIN\source\repos\Online Shopping\Online Shopping\obj\Debug\Online_Shopping.earphone.resources
+C:\Users\ADMIN\source\repos\Online Shopping\Online Shopping\obj\Debug\Online_Shopping.mobile.resources
+C:\Users\ADMIN\source\repos\Online Shopping\Online Shopping\obj\Debug\Online_Shopping.shoes.resources
+C:\Users\ADMIN\source\repos\Online Shopping\Online Shopping\obj\Debug\Online_Shopping.Tv.resources
+C:\Users\ADMIN\source\repos\Online Shopping\Online Shopping\obj\Debug\Online_Shopping.watch.resources
+C:\Users\ADMIN\source\repos\Online Shopping\Online Shopping\obj\Debug\Online_Shopping.Adminfrm.resources
+C:\Users\ADMIN\source\repos\Online Shopping\Online Shopping\obj\Debug\Online_Shopping.cart.resources
+C:\Users\ADMIN\source\repos\Online Shopping\Online Shopping\obj\Debug\Online_Shopping.payment.resources
+C:\Users\ADMIN\source\repos\Online Shopping\Online Shopping\obj\Debug\Online_Shopping.myorders.resources
+C:\Users\ADMIN\source\repos\Online Shopping\Online Shopping\obj\Debug\Online_Shopping.add_admin.resources
